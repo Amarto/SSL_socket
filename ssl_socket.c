@@ -5,6 +5,7 @@
 
 /*
 * SSL Socket Implementation Using OpenSSL
+* Adapted from stock Sockets API Code at: http://cs.baylor.edu/%7Edonahoo/practical/CSockets/
 */
 
 
